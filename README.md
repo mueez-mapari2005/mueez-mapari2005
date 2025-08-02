@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mueez-mapari-628088344/" target="_blank">
-    <img src="https://arizent.brightspotcdn.com/dims4/default/11acaef/2147483647/strip/true/crop/510x345+0+0/resize/510x345!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Ff4%2F68%2Face5be384dcdb103fa095c77b76d%2Fdata-analytics-intro.jpg" width="60%" />
+    <img src="https://arizent.brightspotcdn.com/dims4/default/11acaef/2147483647/strip/true/crop/510x345+0+0/resize/510x345!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Ff4%2F68%2Face5be384dcdb103fa095c77b76d%2Fdata-analytics-intro.jpg" width="100%" />
   </a>
 </p>
 
