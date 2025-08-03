@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mueez Mapari</h1>
-<h3 align="center">A Passionate AI Analyst from India</h3>
+<h3 align="center">A Passionate Data Analyst from India</h3>
 <h3 align="center" style="color:darkred;">Exploring Data | Building Insights | Powering Decisions</h3>
 
 <a href="https://www.linkedin.com/in/mueez-mapari-628088344/" target="_blank">
