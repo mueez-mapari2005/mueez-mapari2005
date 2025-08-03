@@ -74,7 +74,7 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
   <b>Zepto Excel Dashboard</b><br><br>
-  <a href="https://github.com/mueez-mapari2005/stock-market-project">
+  <a href="https://github.com/mueez-mapari2005/Mini-Project/blob/main/Screenshot%202025-08-01%20111533.png">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://colab.research.google.com/drive/1MCKm3UyMGbOUy0N2ZyL4l2uy-4ZT4wFR?usp=sharing">
