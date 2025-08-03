@@ -45,13 +45,12 @@
 ![Machine Learning](https://img.shields.io/badge/Machine--Learning-Learning-red?style=for-the-badge&logo=scikitlearn)
 
 --- 
-
 ###  🔬 Mini Project Highlight
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
   <b>Ajio Data Analysis Using Python</b><br><br>
-  <a href="https://github.com/mueez-mapari2005/stock-market-project">
+  <a href="https://github.com/mueez-mapari2005/Mini-Project/blob/main/ajio_EDA.ipynb">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://colab.research.google.com/drive/1uMd5tRJhn-o4Cv-6CGVxGKqkplXbZMwg?usp=sharing">
@@ -63,9 +62,6 @@
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
   <b>Generative AI for Data Analysts</b><br><br>
-  <a href="https://github.com/mueez-mapari2005/stock-market-project">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href="https://colab.research.google.com/drive/1dj8mzCXoi5bQd7rEMg78CqHUAv_-l1U-?usp=sharing">
     <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
   </a>
