@@ -45,7 +45,30 @@
 ![Machine Learning](https://img.shields.io/badge/Machine--Learning-Learning-red?style=for-the-badge&logo=scikitlearn)
 
 --- 
-###  🔬 Mini Project Highlight
+###  🔬 Project Highlight
+
+
+https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
+  <b>🚖 **Uber Performance Dashboard for Ride and Customer Analysis**</b><br><br>
+  <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis">
+    <img src=https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png/>
+    <img src=https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Vehicle%20Type%20page.png>
+  </a>
+</p>
+
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
+  <b>Zepto Excel Dashboard</b><br><br>
+  <a href="https://github.com/mueez-mapari2005/Mini-Project/blob/main/Screenshot%202025-08-01%20111533.png">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://colab.research.google.com/drive/1MCKm3UyMGbOUy0N2ZyL4l2uy-4ZT4wFR?usp=sharing">
+    <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
+  </a>
+</p>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
@@ -66,18 +89,6 @@
     <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
   </a>
 </p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
-  <b>Zepto Excel Dashboard</b><br><br>
-  <a href="https://github.com/mueez-mapari2005/Mini-Project/blob/main/Screenshot%202025-08-01%20111533.png">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://colab.research.google.com/drive/1MCKm3UyMGbOUy0N2ZyL4l2uy-4ZT4wFR?usp=sharing">
-    <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  </a>
-</p>
-
 
 ---
 
