@@ -49,7 +49,6 @@
 
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
   <b>🚖 Uber Performance Dashboard for Ride and Customer Analysis</b><br><br>
 
   <!-- 🔗 GitHub Repo Badge -->
