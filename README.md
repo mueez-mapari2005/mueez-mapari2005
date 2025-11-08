@@ -58,7 +58,7 @@
   </a>
 
   <!-- 🖼️ Dashboard Preview Badge (opens image directly when clicked) -->
-  <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png">
+  <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/View%20dashboard%20Image%20.pdf">
     <img src="https://img.shields.io/badge/View%20Dashboard%20Preview-00C853?style=for-the-badge&logo=powerbi&logoColor=white"/>
   </a>
 </p>
