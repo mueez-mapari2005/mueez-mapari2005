@@ -50,9 +50,17 @@
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
-  <b>🚖 **Uber Performance Dashboard for Ride and Customer Analysis**</b><br><br>
+  <b>🚖 Uber Performance Dashboard for Ride and Customer Analysis</b><br><br>
+  
+  <!-- GitHub badge link -->
   <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis">
-    <img src="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png/">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <!-- Dashboard preview image -->
+  <br><br>
+  <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png">
+    <img src="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png" width="800" />
   </a>
 </p>
 
