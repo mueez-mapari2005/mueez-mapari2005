@@ -48,13 +48,11 @@
 ###  🔬 Project Highlight
 
 
-https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" width="40" />
   <b>🚖 **Uber Performance Dashboard for Ride and Customer Analysis**</b><br><br>
   <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis">
     <img src=https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png/>
-    <img src=https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Vehicle%20Type%20page.png>
   </a>
 </p>
 
