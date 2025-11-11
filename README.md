@@ -36,11 +36,11 @@
 
 ### 🏷️ Skill Badges:
 
-![Python](https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?style=for-the-badge&logo=mysql)
 ![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-Expert-purple?style=for-the-badge&logo=microsoftsqlserver)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-blue?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Beginner-orange?style=for-the-badge&logo=powerbi)
+![Power BI](https://img.shields.io/badge/Power%20BI-Expert-orange?style=for-the-badge&logo=powerbi)
 ![Google Colab](https://img.shields.io/badge/Google--Colab-Expert-yellow?style=for-the-badge&logo=googlecolab)
 ![Machine Learning](https://img.shields.io/badge/Machine--Learning-Learning-red?style=for-the-badge&logo=scikitlearn)
 
