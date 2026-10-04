@@ -30,7 +30,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7c3aed&height=48&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%26%20WHAT%20I%20DO&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=50" />
 
 <div align="center">
-  <img width="100%" src="./assets/about.svg" alt="About Mueez Mapari and what I do" />
+  <img width="100%" src="./about.svg" alt="About Mueez Mapari and what I do" />
 </div>
 
 <br/>
