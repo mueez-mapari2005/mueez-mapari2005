@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=720&lines=AI+Driven+Analyst+%40+Godrej+Properties;Prompt+%E2%86%92+Vibe+Code+%E2%86%92+Automate+%E2%86%92+Insights;Vibe+Coding+with+Claude+%7C+ChatGPT+%7C+Gemini+%7C+Lovable;Building+AI-Powered+Analytics+Tools" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&background=04060DFF&center=true&vCenter=true&width=720&height=60&lines=AI+Driven+Analyst+%40+Godrej+Properties;Prompt+%E2%86%92+Vibe+Code+%E2%86%92+Automate+%E2%86%92+Insights;Vibe+Coding+with+Claude+%7C+ChatGPT+%7C+Gemini+%7C+Lovable;Building+AI-Powered+Analytics+Tools" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,10 +22,27 @@
 
 ---
 
+## ⚡ What I Do
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=4ADE80&background=04060DFF&center=true&vCenter=true&width=720&height=70&lines=%E2%96%B6+Building+Power+BI+Dashboards;%E2%96%B6+Excel+Reporting+%26+Automation;%E2%96%B6+MySQL+Queries+%26+Data+Cleaning;%E2%96%B6+Writing+BRDs+for+Business+Requirements;%E2%96%B6+Vibe+Coding+AI+Tools+with+Lovable+%26+Claude" alt="What I do" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-04060D?style=for-the-badge&logo=powerbi&logoColor=F2C811&labelColor=0B0F24" />
+  <img src="https://img.shields.io/badge/Excel-Reporting-04060D?style=for-the-badge&logo=microsoftexcel&logoColor=4ADE80&labelColor=0B0F24" />
+  <img src="https://img.shields.io/badge/MySQL-Querying-04060D?style=for-the-badge&logo=mysql&logoColor=24C6DC&labelColor=0B0F24" />
+  <img src="https://img.shields.io/badge/Data-Cleaning-04060D?style=for-the-badge&logo=pandas&logoColor=A78BFA&labelColor=0B0F24" />
+  <img src="https://img.shields.io/badge/BRD-Documentation-04060D?style=for-the-badge&logo=readthedocs&logoColor=FF4B91&labelColor=0B0F24" />
+</p>
+
+---
+
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi,py,mysql,postgres,mongodb&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,mongodb&theme=dark" /><br><br>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
