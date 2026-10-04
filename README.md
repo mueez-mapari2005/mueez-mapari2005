@@ -1,111 +1,118 @@
-
-
-<h1 align="center">Hi 👋, I'm Mueez Mapari</h1>
-<h3 align="center">Data Analyst from India</h3>
-<h3 align="center" style="color:darkred;">Exploring Data | Building Insights | Powering Decisions</h3>
-
-<a href="https://www.linkedin.com/in/mueez-mapari-628088344/" target="_blank">
-  <img align="right" alt="Data Analyst" src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif" width="400" />
-</a>
-
-
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mueez-mapari-628088344/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
-
-
-
-### 🧠 Skills, Languages & Tools:
+<!-- ================= ANIMATED HEADER ================= -->
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PGAdmin" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> </a>
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" height="40"/> </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/> </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Mueez%20Mapari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Driven%20Data%20Analyst%20%7C%20Godrej%20Properties&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
-
-
-### 🏷️ Skill Badges:
-
-![Python](https://img.shields.io/badge/Python-Expert-yellow?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?style=for-the-badge&logo=mysql)
-![MS SQL Server](https://img.shields.io/badge/MS--SQL--Server-Expert-purple?style=for-the-badge&logo=microsoftsqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-blue?style=for-the-badge&logo=postgresql)
-![Power BI](https://img.shields.io/badge/Power%20BI-Expert-orange?style=for-the-badge&logo=powerbi)
-![Google Colab](https://img.shields.io/badge/Google--Colab-Expert-yellow?style=for-the-badge&logo=googlecolab)
-![Machine Learning](https://img.shields.io/badge/Machine--Learning-Learning-red?style=for-the-badge&logo=scikitlearn)
-
---- 
-###  🔬 Project Highlight
-
-
-<p align="left">
-  <b>🚖 Uber Performance Dashboard for Ride and Customer Analysis</b><br><br>
-
-  <!-- 🔗 GitHub Repo Badge -->
-  <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <!-- 🖼️ Dashboard Preview Badge (opens image directly when clicked) -->
-  <a href="https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/View%20dashboard%20Image%20.pdf">
-    <img src="https://img.shields.io/badge/View%20Dashboard%20Preview-00C853?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<!-- ================= TYPING ANIMATION ================= -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=700&lines=Data+Analyst+%40+Godrej+Properties+%F0%9F%8F%A2;Turning+Data+into+Decisions+%F0%9F%93%8A;Vibe+Coding+with+Claude+%7C+ChatGPT+%7C+Gemini+%7C+Lovable+%E2%9C%A8;Building+AI-Powered+Analytics+Tools+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </p>
 
-
-<p align="left">
-  <b>Zepto Excel Dashboard</b><br><br>
-  <a href="https://github.com/mueez-mapari2005/Mini-Project/blob/main/Screenshot%202025-08-01%20111533.png">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://colab.research.google.com/drive/1MCKm3UyMGbOUy0N2ZyL4l2uy-4ZT4wFR?usp=sharing">
-    <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  </a>
-</p>
-
-<p align="left">
-  <b>Ajio Data Analysis Using Python</b><br><br>
-  <a href="https://github.com/mueez-mapari2005/Mini-Project/blob/main/ajio_EDA.ipynb">
-    <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://colab.research.google.com/drive/1uMd5tRJhn-o4Cv-6CGVxGKqkplXbZMwg?usp=sharing">
-    <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  </a>
-</p>
-
-
-<p align="left">
-  <b>Generative AI for Data Analysts</b><br><br>
-  <a href="https://colab.research.google.com/drive/1dj8mzCXoi5bQd7rEMg78CqHUAv_-l1U-?usp=sharing">
-    <img src="https://img.shields.io/badge/Open%20in%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Mumbai-India-0f0c29?style=for-the-badge&logo=googlemaps&logoColor=24c6dc"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-24c6dc?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=mueez-mapari2005&label=Profile%20Views&color=302b63&style=for-the-badge" />
 </p>
 
 ---
 
-### 🏆 GitHub Profile Trophy
+## 👨‍💻 About Me
+
+```python
+class MueezMapari:
+    role     = "Data Analyst @ Godrej Properties"
+    location = "India 🇮🇳"
+    stack    = ["SQL", "Python", "Power BI", "Tableau", "Excel"]
+    ai_tools = ["Claude", "ChatGPT", "Gemini", "Lovable"]
+    mission  = "Explore Data → Build Insights → Power Decisions"
+
+    def today(self):
+        return "Analysing data, automating reports & vibe coding AI apps 🚀"
+```
+
+---
+
+## 🧠 Tech Stack
+
+**📊 Analytics & BI**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,py,mysql,postgres,mongodb&theme=dark" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+**🐍 Python Libraries**
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
+---
+
+## 🤖 AI & Vibe Coding Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF4B91?style=for-the-badge&logo=lovable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-24C6DC?style=for-the-badge&logo=sparkles&logoColor=white" />
+</p>
+
+> 💡 I use AI as a co-pilot: faster analysis, cleaner dashboards, and quick vibe-coded apps that solve real business problems.
+
+---
+
+## 🔬 Featured Projects
+
+| Project | What it is | Links |
+|---|---|---|
+| 🚖 **Uber Performance Dashboard** | Power BI dashboard for ride & customer analysis | [GitHub](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis) · [Preview](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/View%20dashboard%20Image%20.pdf) |
+| 🛒 **Zepto Excel Dashboard** | Interactive Excel dashboard | [GitHub](https://github.com/mueez-mapari2005/Mini-Project/blob/main/Screenshot%202025-08-01%20111533.png) · [Colab](https://colab.research.google.com/drive/1MCKm3UyMGbOUy0N2ZyL4l2uy-4ZT4wFR?usp=sharing) |
+| 👗 **Ajio Data Analysis** | EDA using Python | [GitHub](https://github.com/mueez-mapari2005/Mini-Project/blob/main/ajio_EDA.ipynb) · [Colab](https://colab.research.google.com/drive/1uMd5tRJhn-o4Cv-6CGVxGKqkplXbZMwg?usp=sharing) |
+| ✨ **Generative AI for Data Analysts** | Using GenAI inside analyst workflows | [Colab](https://colab.research.google.com/drive/1dj8mzCXoi5bQd7rEMg78CqHUAv_-l1U-?usp=sharing) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mueez-mapari2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mueez-mapari2005&theme=tokyonight&hide_border=true&background=0f0c29" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueez-mapari2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mueez-mapari2005&theme=darkhub&margin-w=10&no-bg=true&no-frame=true" alt="GitHub Trophy"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mueez-mapari2005&show_icons=true&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/mueez-mapari-628088344/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mueez-mapari2005">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
-![GitHub Contribution Graph](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center"><i>"Without data, you're just another person with an opinion."</i> 📈</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=120&section=footer" width="100%"/>
