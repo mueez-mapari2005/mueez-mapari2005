@@ -1,5 +1,5 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:7c3aed&height=230&section=header&text=Mueez%20Mapari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI-Driven%20Data%20Analyst%20%7C%20Godrej%20Properties&descSize=18&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2937,100:7c3aed&height=230&section=header&text=Mueez%20Mapari&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=AI-Driven%20Analyst%20%7C%20Godrej%20Properties&descSize=18&descAlignY=60&animation=fadeIn" />
 
 <div align="center">
 
