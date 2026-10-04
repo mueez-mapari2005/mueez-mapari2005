@@ -20,17 +20,9 @@
 
 ## 👨‍💻 About Me
 
-```python
-class MueezMapari:
-    role     = "Data Analyst @ Godrej Properties"
-    location = "India 🇮🇳"
-    stack    = ["SQL", "Python", "Power BI", "Tableau", "Excel"]
-    ai_tools = ["Claude", "ChatGPT", "Gemini", "Lovable"]
-    mission  = "Explore Data → Build Insights → Power Decisions"
-
-    def today(self):
-        return "Analysing data, automating reports & vibe coding AI apps 🚀"
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mueez-mapari2005/mueez-mapari2005/main/assets/about-card.svg" alt="About Mueez Mapari - AI-Driven Data Analyst" width="100%"/>
+</p>
 
 ---
 
