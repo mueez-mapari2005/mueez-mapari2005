@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=AI-Driven+Analyst+%40+Godrej+Properties;Vibe+Coding+%2B+Automation+%F0%9F%A4%96;Dashboard+Reporting+%7C+Power+BI;Insightful+Excel+Reports+%F0%9F%93%8A;MySQL+%7C+Data+Cleaning+%7C+BRDs;Exploring+Data+%E2%86%92+Building+Insights+%E2%86%92+Powering+Decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&background=0D111700&center=true&vCenter=true&width=720&lines=AI-Driven+Analyst+%40+Godrej+Properties;Vibe+Coding+%2B+Automation;Dashboard+Reporting+%7C+Power+BI;Insightful+Excel+Reports;MySQL+%7C+Data+Cleaning+%7C+BRDs;Exploring+Data+%E2%86%92+Building+Insights+%E2%86%92+Powering+Decisions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,67 +24,40 @@
 
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
-
-```python
-class MueezMapari:
-    role       = "AI-Driven Data Analyst"
-    company    = "Godrej Properties"
-    location   = "India 🇮🇳"
-    focus      = ["Dashboard Reporting", "Insight-Driven Excel Reports", "MySQL", "Automation"]
-    vibe_stack = ["Lovable", "ChatGPT", "Gemini", "Claude"]
-    mission    = "Turn raw data into decisions — faster, with AI as my co-pilot"
-
-    def work(self):
-        return "Explore Data → Build Insights → Power Decisions"
-```
-
----
-
-### ⚡ What I Do
+<!-- ═══════════════ ABOUT + WHAT I DO ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7c3aed&height=48&section=header&text=%E2%9C%A6%20ABOUT%20ME%20%26%20WHAT%20I%20DO&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=50" />
 
 <div align="center">
-
-| 📊 Dashboard Reporting | 📑 Insight Excel Reports | 🗄️ MySQL & Data Cleaning |
-|:---:|:---:|:---:|
-| Power BI dashboards that tell the story | Clean, decision-ready Excel reporting | Query, clean & structure messy data |
-
-| 🤖 Vibe Coding | ⚙️ Automation | 📝 BRD Writing |
-|:---:|:---:|:---:|
-| Building fast with AI tools | Cutting manual reporting effort | Clear business requirement docs |
-
+  <img width="100%" src="./assets/about.svg" alt="About Mueez Mapari and what I do" />
 </div>
 
----
+<br/>
 
-### 🧠 Tech Stack & Tools
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7c3aed&height=48&section=header&text=%E2%9C%A6%20TECH%20STACK%20%26%20TOOLS&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=50" />
 
 <div align="center">
 
-**📈 Analytics & Reporting**
-
+<img src="https://img.shields.io/badge/-ANALYTICS%20%26%20REPORTING-1f2937?style=flat-square&labelColor=1f2937&color=1f2937" /><br/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
-**🗄️ Databases**
-
+<img src="https://img.shields.io/badge/-DATABASES-1f2937?style=flat-square&labelColor=1f2937&color=1f2937" /><br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-**🐍 Python & Data**
-
+<img src="https://img.shields.io/badge/-PYTHON%20%26%20DATA-1f2937?style=flat-square&labelColor=1f2937&color=1f2937" /><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 
-**🤖 Vibe Coding & AI Tools**
-
+<img src="https://img.shields.io/badge/-VIBE%20CODING%20%26%20AI%20TOOLS-1f2937?style=flat-square&labelColor=1f2937&color=1f2937" /><br/>
 <img src="https://img.shields.io/badge/Lovable-FF4F9A?style=for-the-badge&logo=lovable&logoColor=white" />
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
@@ -92,9 +65,10 @@ class MueezMapari:
 
 </div>
 
----
+<br/>
 
-### 🔬 Project Highlights
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7c3aed&height=48&section=header&text=%E2%9C%A6%20PROJECT%20HIGHLIGHTS&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=50" />
 
 <div align="center">
 
@@ -137,22 +111,17 @@ class MueezMapari:
 
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
+<!-- ═══════════════ STATS ═══════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:7c3aed&height=48&section=header&text=%E2%9C%A6%20GITHUB%20STATS&fontSize=20&fontColor=e9d5ff&fontAlign=8&fontAlignY=50" />
 
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=mueez-mapari2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7c3aed" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueez-mapari2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA" />
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
